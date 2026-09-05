@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oslal"
+version = "0.1.0"
+description = "Joint OS Process and Network Interface Scheduler"
+readme = "README.md"
+requires-python = ">=3.8"
